@@ -63,6 +63,6 @@ if __name__ == "__main__":
 
     task_manager.mark_task_as_completed(0)
 
-    
+
     print("\nТекущие задачи:")
     task_manager.display_pending_tasks()
